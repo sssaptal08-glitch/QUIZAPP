@@ -53,8 +53,6 @@ QuizApp/
 
 │   ├── Login.java
 
-│   ├── Main.java
-
 │   ├── Quiz.java
 
 │   ├── Rules.java
@@ -71,7 +69,7 @@ Open terminal in project folder
 
 Compile the project:
 
-javac Main.java
+javac Login.java
 
 Run the program:
 
