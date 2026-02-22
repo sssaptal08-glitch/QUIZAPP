@@ -78,7 +78,7 @@ java Main
 
 Open project in IntelliJ / Eclipse / VS Code
 
-Run Main.java
+Run Login.java
 
 Start attempting the quiz 🎉
 
