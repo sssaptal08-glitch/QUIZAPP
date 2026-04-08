@@ -46,21 +46,15 @@ VS Code / IntelliJ / Eclipse
 Git & GitHub
 
 **📂 Project Structure**
-
+```
 QuizApp/
-
 │── src/
-
 │   ├── Login.java
-
 │   ├── Quiz.java
-
 │   ├── Rules.java
-
 │   ├── Score.java
-
 │── README.md
-
+```
 **⚙️ How to Run the Project**
 
 **🔹 Using Command Line**
